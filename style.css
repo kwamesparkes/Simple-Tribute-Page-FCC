@@ -1,0 +1,64 @@
+body {
+  font-family: 'Oswald', sans-serif ,'Martel', serif, 'Roboto', sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  border-bottom: 5px;
+  margin: 10px 0;
+}
+
+h3 {
+  border: 0;
+}
+
+#image {
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+  
+/* Look up Oswald, sans-serif font on Google Fonts. Is on Baseball Hall of Fame website, and it looks cool. Especially for a sans-serif. */
+
+
+h1, #tribute-info, h3, #img-caption {
+    text-align: center;
+}
+
+#img-caption {
+  padding-top: 10px;
+}
+
+#tribute-info {
+  font-weight: bold;
+  font-size: 1.17em;
+}
+
+ul {
+    width: 70%;
+    margin: auto;
+}
+
+body {
+  background-color: #e4e4e4;
+}
+ 
+footer {
+  padding-top: 40px;
+  padding-bottom: 20px;;
+}
+
+footer p {
+  text-align: center;
+  margin: auto;
+}
+
+footer a {
+  text-decoration: none;
+  color: black;
+}
+
+footer a:hover {
+  color: gray;
+  text-decoration: none;
+}
