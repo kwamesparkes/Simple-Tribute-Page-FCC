@@ -39,6 +39,10 @@ ul {
     margin: auto;
 }
 
+.years {
+  font-weight: bold;
+}
+
 body {
   background-color: #e4e4e4;
 }
